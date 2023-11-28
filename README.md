@@ -1,2 +1,10 @@
 # PowerBi
-pdf's with various powerbi reports
+# [MCQ](https://github.com/stacie-kipruto/PowerBi/blob/main/MCQ.pdf)
+A pdf version of PowerBi reports showcasing the basics of, (without any formatting or colour encoding):
+  - Pie Charts
+  - Bar Charts
+  - Maps and adding PNG files to the background
+  - Stacked bar chart
+  - Line Charts
+  - Scatter Plots
+
